@@ -36,8 +36,8 @@ public class PantallaPrincipal extends JFrame{
 		layout.setColumns(1);
 		this.setLayout(layout); // asignar el layout a la pantalla.
 		
-		number1Label = new JLabel("Number 1");
-		number2Label = new JLabel("Number 2");
+		number1Label = new JLabel("Numero 1");
+		number2Label = new JLabel("Numero 2");
 		number1TextField = new JTextField();
 		number1TextField.setColumns(10);
 		number2TextField = new JTextField();
